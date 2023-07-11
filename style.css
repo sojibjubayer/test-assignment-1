@@ -169,6 +169,15 @@
     border-radius: 90px;
     background-color: #808881;
 }
+.circle-btn{
+    padding:0px 66px;
+    background-color: #808881;
+    border:none;
+    color:rgb(187, 0, 0);
+    display:block;
+    margin-top:-18px;
+    margin-left:px;
+}
 
 .circle img{
     z-index:1000;
@@ -190,8 +199,9 @@
 }
 .wall-title img{
     width:245px;
-    margin-top:-74px;
+    margin-top:-71px;
     margin-left:77px;
+    border-radius: 0px 0px 25px 25px;
 }
 
 /* SECTION 4  */
