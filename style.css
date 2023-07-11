@@ -10,6 +10,7 @@
     background: #fceef1;
     height: 100vh;
     width: 100%;
+    
 }
 
 .head-inner {
@@ -20,6 +21,7 @@
     align-items: center;
     font-family: Lato;
     padding-top: 40px;
+    
 }
 
 .header-text {
@@ -182,7 +184,7 @@
     padding: 0px 66px;
     background-color: #808881;
     border: none;
-    color: rgb(187, 0, 0);
+    color: #bbeecf;
     display: block;
     margin-top: -18px;
     margin-left: px;
@@ -288,7 +290,7 @@
 }
 
 .sec-5-image img {
-    width: 250px;
+    width: 260px;
 }
 
 /* SECTION-6  */
@@ -304,13 +306,15 @@
    margin-left:10%
 } */
 .sec6-info {
-    margin:0 auto;
+    
     text-align: center;
     background-image: url('asset/subs_img.png');
     background-size: contain;
     background-repeat: no-repeat;
-    width: 1070px;
+    /* width: 1070px; */
     height: 449px;
+    margin:0 auto;
+    width:100%;
 }
 
 .sec6-info h2 {
