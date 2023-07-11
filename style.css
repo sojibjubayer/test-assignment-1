@@ -29,8 +29,7 @@
 .header-text h2 {
     color: #272727;
     font-size: 57px;
-    font-weight: 800;
-    line-height: 60px;
+    font-weight: bold;
 }
 
 .header-text p {
@@ -68,13 +67,13 @@
 .section-1-content h3 {
     color: #272727;
     font-size: 32px;
-    font-weight: 800;
+    margin-bottom: 10px;
 }
 
 .section-1-content p {
     color: rgba(39, 39, 39, 0.60);
     font-size: 15px;
-    line-height: 15px;
+    line-height: 20px;
     margin-top: 10px;
     margin-bottom: 40px;
 }
@@ -107,14 +106,14 @@
     background: rgba(71, 125, 17, 0.15);
 }
 
-
-
-
 .sec2-image {
     width: 263px;
     height: 320px;
     padding-left: 40px;
     margin-top: 60px
+}
+.wing-wide{
+    width:300px;
 }
 
 .image-card a {
@@ -122,6 +121,7 @@
     font-size: 17px;
     text-decoration: underline;
     margin-left:100px;
+    font-weight: bold;
 }
 .image-card figcaption{
     margin-top: 20px;;
@@ -130,18 +130,19 @@
 /* SECTION 3  */
 
 .section-3 {
-    margin-top: 90px;
+    margin-top: 140px;
     display: flex;
     gap: 35px;
     justify-content: center;
     text-align: center;
-    margin-bottom:90px;
+    margin-bottom:150px;
 }
 
 .section-3 p {
     color: rgba(39, 39, 39, 0.80);
     font-size: 17px;
     margin-top: 10px;
+    font-weight:bold;
 }
 
 /* SECCTION-SP  */ 
@@ -149,7 +150,7 @@
     width: 80%;
     margin:auto;
     height: 400px;
-    background: #011a09;
+    background: #bbeecf;
     display: flex;
     justify-content: center;
     gap:40px;
